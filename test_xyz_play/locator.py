@@ -32,3 +32,4 @@ locator_customer_potter = "option.ng-binding:nth-child(3)"
 locator_currency = "#currency"
 locator_currency_rupee = "//html/body/div/div/div[2]/div/div[2]/div/div/form/div[2]/select/option[4]"
 locator_process = "form.ng-dirty > button:nth-child(3)"
+

@@ -5,7 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c96fd58-5ebd-4132-9641-4dc6cf9974a2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/test_xyz_play/screenshot/list.png" beforeDir="false" afterPath="$PROJECT_DIR$/test_xyz_play/screenshot/list.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plawright/bank_play.py" beforeDir="false" afterPath="$PROJECT_DIR$/plawright/bank_play.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plawright/screenshots1/example.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plawright/screenshots1/example1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/example.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/example1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots5/example.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots5/example1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_xyz_play/locator.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_xyz_play/locator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_xyz_play/screenshot/logout.png" beforeDir="false" afterPath="$PROJECT_DIR$/test_xyz_play/screenshot/logout.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_xyz_play/screenshot/tran.png" beforeDir="false" afterPath="$PROJECT_DIR$/test_xyz_play/screenshot/tran.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_xyz_play/test_xyz_check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_xyz_play/test_xyz_step.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_xyz_play/test_xyz_step.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка/test_sd_playwright/test_sd_playwright/screenshot/login.png" beforeDir="false" afterPath="$PROJECT_DIR$/Новая папка/test_sd_playwright/test_sd_playwright/screenshot/login.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка/test_sd_playwright/test_sd_playwright/screenshot/sort.png" beforeDir="false" afterPath="$PROJECT_DIR$/Новая папка/test_sd_playwright/test_sd_playwright/screenshot/sort.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,23 +89,73 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python tests.Python tests for test_xyz_check.test_list_customer">
-    <configuration name="Python tests for bank_play.test_example" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ds828\PycharmProjects\pythonProject1\test_xyz_play\screenshot" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test_sdp_checks.test_sort_products_successful">
+    <configuration name="Python tests for 1.test_bank_xyz_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/plawright" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;bank_play.test_example&quot;" />
+      <option name="_new_target" value="&quot;1.test_bank_xyz_login&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_xyz_check.test_list_customer" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for 1.test_example" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;1.test_example&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_sdp_checks.test_login_successful" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Новая папка/test_sd_playwright/test_sd_playwright" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_sdp_checks.test_login_successful&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_sdp_checks.test_sort_products_successful" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Новая папка/test_sd_playwright/test_sd_playwright" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_sdp_checks.test_sort_products_successful&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_xyz_check.test_login_successful_potter" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,62 +166,17 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_xyz_check.test_list_customer&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_xyz_check.test_successful_add_customer" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_xyz_play" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_xyz_check.test_successful_add_customer&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_xyz_check.test_successful_open_account_potter" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_xyz_play" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_xyz_check.test_successful_open_account_potter&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_xyz_check.test_successful_transaction_potter" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_xyz_play" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_xyz_check.test_successful_transaction_potter&quot;" />
+      <option name="_new_target" value="&quot;test_xyz_check.test_login_successful_potter&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_xyz_check.test_list_customer" />
-        <item itemvalue="Python tests.Python tests for test_xyz_check.test_successful_transaction_potter" />
-        <item itemvalue="Python tests.Python tests for test_xyz_check.test_successful_open_account_potter" />
-        <item itemvalue="Python tests.Python tests for test_xyz_check.test_successful_add_customer" />
-        <item itemvalue="Python tests.Python tests for bank_play.test_example" />
+        <item itemvalue="Python tests.Python tests for test_sdp_checks.test_sort_products_successful" />
+        <item itemvalue="Python tests.Python tests for 1.test_example" />
+        <item itemvalue="Python tests.Python tests for 1.test_bank_xyz_login" />
+        <item itemvalue="Python tests.Python tests for test_sdp_checks.test_login_successful" />
+        <item itemvalue="Python tests.Python tests for test_xyz_check.test_login_successful_potter" />
       </list>
     </recent_temporary>
   </component>
@@ -193,22 +212,22 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test_xyz_play/test_xyz_check.py</url>
+          <url>file://$PROJECT_DIR$/test_xyz_play/screenshot/test_xyz_check.py</url>
           <line>12</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test_xyz_play/test_xyz_check.py</url>
+          <url>file://$PROJECT_DIR$/test_xyz_play/screenshot/test_xyz_check.py</url>
           <line>19</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test_xyz_play/test_xyz_check.py</url>
+          <url>file://$PROJECT_DIR$/test_xyz_play/screenshot/test_xyz_check.py</url>
           <line>42</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test_xyz_play/test_xyz_check.py</url>
+          <url>file://$PROJECT_DIR$/test_xyz_play/screenshot/test_xyz_check.py</url>
           <line>93</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
@@ -216,6 +235,16 @@
           <url>file://$PROJECT_DIR$/test_xyz_play/locator.py</url>
           <line>32</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_xyz_play/test_xyz_check.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_xyz_play/test_xyz_check.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

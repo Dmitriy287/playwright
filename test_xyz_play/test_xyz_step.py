@@ -45,7 +45,7 @@ def login_bank_potter(page: Page):
         page.select_option(locator_button_your_name, label='Harry Potter')
         page.click(locator_button_login)
         page.wait_for_timeout(3000)
-        page.screenshot(path='screenshot/log.png')
+        page.screenshot(path='screenshot/logout.png')
     return login_bank_potter_function
 
 @pytest.fixture
@@ -118,6 +118,7 @@ def login_bank_manager(page: Page):
         page.goto(driver_get_bankxyz)
         page.click(locator_button_login_bank_manager)
         page.wait_for_timeout(2000)
+        page.screenshot(path='screenshot/login.manager.png')
     return login_bank_manager_function
 
 @pytest.fixture

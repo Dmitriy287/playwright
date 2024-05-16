@@ -27,13 +27,13 @@ def test_example():
         browser.close()
 def test_bank_xyz_login():
     with sync_playwright() as p:
-                browser = p.firefox.launch()
-                page = browser.new_page()
-                page.goto("https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login")
-                assert page.title() == 'XYZ Bank'
-                page.click("button.btn.btn-primary")
-                page.screenshot(path='screenshots1/example.jpeg')
-                page.click("#userSelect")
-                page.wait_for_timeout(3000)
-                page.screenshot(path='screenshots1/example1.jpeg')
-                browser.close()
+            browser = p.firefox.launch()
+            page = browser.new_page()
+            page.goto("https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login")
+            assert page.title() == 'XYZ Bank'
+            page.click("button.btn.btn-primary")
+            page.screenshot(path='screenshots3/example.jpeg')
+            page.click("#userSelect")
+            page.wait_for_timeout(3000)
+            page.screenshot(path='screenshots3/example1.jpeg')
+            browser.close()
